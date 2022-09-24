@@ -1,0 +1,814 @@
+Id_cliente,Honorário,Data,Agente,Tempo (min),Grupo,Nome_cliente,Ramo,Id_tipo_cliente,Tipo_cliente
+22,1239,20/09/2021,3000,194,6,Process Automatik,tecnologia,100,Mensalista
+21,1397,01/04/2020,5000,772,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+14,3782,03/03/2019,6000,1069,2,Movéis Rur,Construção e Casa,200,Por Demanda
+26,180,03/10/2021,5000,1367,8,Rusticos,Venda de Movéis,200,Por Demanda
+23,4754,01/10/2019,4000,211,7,Sua Vida,Saude,100,Mensalista
+22,4069,08/04/2017,2000,996,6,Process Automatik,tecnologia,100,Mensalista
+24,2838,10/12/2019,5000,1087,2,Teck e Rede,Tecnologia,100,Mensalista
+10,970,11/12/2021,1000,587,1,Lojas Viva,Varejo,200,Por Demanda
+17,1402,01/05/2017,1000,142,5,Ferragens Morais,Construção e Casa,100,Mensalista
+25,2680,21/12/2021,6000,820,8,Clinica Viva Bem,Saúde,200,Por Demanda
+15,1934,09/07/2017,4000,762,1,Qualidade é Tudo,Varejo,100,Mensalista
+20,897,23/09/2018,1000,1251,4,Brink Hoje,Entretenimento,200,Por Demanda
+10,3462,04/03/2020,5000,1360,1,Lojas Viva,Varejo,200,Por Demanda
+15,3981,25/09/2020,5000,495,1,Qualidade é Tudo,Varejo,100,Mensalista
+20,1807,28/09/2020,6000,1379,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,3304,20/04/2019,6000,156,7,Sua Vida,Saude,100,Mensalista
+15,3010,08/01/2021,7000,317,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,483,18/12/2021,5000,183,1,Qualidade é Tudo,Varejo,100,Mensalista
+21,1052,01/11/2021,1000,531,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,949,16/05/2018,7000,468,2,Teck e Rede,Tecnologia,100,Mensalista
+20,1967,11/12/2020,7000,729,4,Brink Hoje,Entretenimento,200,Por Demanda
+14,1728,30/01/2020,1000,1407,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,2155,21/01/2020,7000,280,2,Movéis Rur,Construção e Casa,200,Por Demanda
+17,641,11/03/2021,3000,374,5,Ferragens Morais,Construção e Casa,100,Mensalista
+22,1372,26/06/2019,3000,860,6,Process Automatik,tecnologia,100,Mensalista
+23,1152,08/04/2020,3000,1431,7,Sua Vida,Saude,100,Mensalista
+16,3447,18/07/2018,5000,55,6,Data Description,Tecnologia,100,Mensalista
+14,3444,11/05/2018,7000,502,2,Movéis Rur,Construção e Casa,200,Por Demanda
+17,2686,26/11/2021,3000,1191,5,Ferragens Morais,Construção e Casa,100,Mensalista
+20,3746,02/05/2021,2000,932,4,Brink Hoje,Entretenimento,200,Por Demanda
+19,3982,25/05/2018,4000,910,4,PCs e CIA,Tecnologia,200,Por Demanda
+20,1824,11/11/2019,7000,1100,4,Brink Hoje,Entretenimento,200,Por Demanda
+24,3161,08/02/2019,4000,603,2,Teck e Rede,Tecnologia,100,Mensalista
+11,4081,02/02/2019,5000,1051,3,Justamente,Saúde e Beleza,100,Mensalista
+23,4023,13/10/2017,7000,1157,7,Sua Vida,Saude,100,Mensalista
+21,3467,23/11/2020,1000,855,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,3690,31/03/2020,5000,1112,8,Clinica Viva Bem,Saúde,200,Por Demanda
+20,4925,19/08/2018,6000,1409,4,Brink Hoje,Entretenimento,200,Por Demanda
+20,2662,15/01/2017,6000,1387,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,867,05/09/2021,5000,353,7,Sua Vida,Saude,100,Mensalista
+24,3094,24/10/2018,1000,1017,2,Teck e Rede,Tecnologia,100,Mensalista
+10,3064,10/08/2018,6000,971,1,Lojas Viva,Varejo,200,Por Demanda
+16,3400,17/06/2019,5000,22,6,Data Description,Tecnologia,100,Mensalista
+15,4982,09/08/2021,1000,1164,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,2180,28/11/2019,1000,1223,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,3413,05/10/2021,5000,172,1,Lojas Viva,Varejo,200,Por Demanda
+25,2662,11/03/2020,1000,1351,8,Clinica Viva Bem,Saúde,200,Por Demanda
+23,3240,05/10/2019,6000,146,7,Sua Vida,Saude,100,Mensalista
+11,1611,11/10/2017,4000,30,3,Justamente,Saúde e Beleza,100,Mensalista
+26,1302,27/09/2020,3000,766,8,Rusticos,Venda de Movéis,200,Por Demanda
+15,1839,08/05/2020,6000,961,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,426,25/08/2018,3000,812,1,Lojas Viva,Varejo,200,Por Demanda
+10,4717,19/11/2020,4000,956,1,Lojas Viva,Varejo,200,Por Demanda
+16,1144,14/10/2019,2000,1058,6,Data Description,Tecnologia,100,Mensalista
+15,749,21/08/2021,4000,250,1,Qualidade é Tudo,Varejo,100,Mensalista
+16,3179,18/03/2018,4000,752,6,Data Description,Tecnologia,100,Mensalista
+22,237,04/02/2020,2000,1065,6,Process Automatik,tecnologia,100,Mensalista
+24,2790,19/09/2019,6000,364,2,Teck e Rede,Tecnologia,100,Mensalista
+25,3899,07/07/2021,2000,684,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,1524,06/11/2019,3000,656,5,Ferragens Morais,Construção e Casa,100,Mensalista
+22,354,08/07/2017,3000,294,6,Process Automatik,tecnologia,100,Mensalista
+25,3959,04/11/2017,6000,615,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,1546,10/11/2021,7000,1133,5,Ferragens Morais,Construção e Casa,100,Mensalista
+15,1905,22/05/2018,1000,1239,1,Qualidade é Tudo,Varejo,100,Mensalista
+11,3475,10/07/2017,4000,475,3,Justamente,Saúde e Beleza,100,Mensalista
+21,2579,17/05/2017,6000,1312,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+12,1254,15/11/2021,7000,1428,5,Pet Tudo,Animais,200,Por Demanda
+24,4647,01/11/2017,4000,806,2,Teck e Rede,Tecnologia,100,Mensalista
+14,2115,17/01/2019,3000,1105,2,Movéis Rur,Construção e Casa,200,Por Demanda
+24,2939,09/12/2017,6000,61,2,Teck e Rede,Tecnologia,100,Mensalista
+23,3655,29/03/2019,6000,188,7,Sua Vida,Saude,100,Mensalista
+26,2852,04/07/2017,1000,733,8,Rusticos,Venda de Movéis,200,Por Demanda
+21,892,18/11/2019,6000,653,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+16,3455,20/10/2019,2000,747,6,Data Description,Tecnologia,100,Mensalista
+16,4983,16/01/2017,6000,590,6,Data Description,Tecnologia,100,Mensalista
+17,3141,21/01/2018,3000,1436,5,Ferragens Morais,Construção e Casa,100,Mensalista
+26,2198,24/09/2020,1000,1135,8,Rusticos,Venda de Movéis,200,Por Demanda
+25,4693,21/12/2018,5000,1304,8,Clinica Viva Bem,Saúde,200,Por Demanda
+24,2557,01/06/2017,7000,686,2,Teck e Rede,Tecnologia,100,Mensalista
+22,2399,18/05/2017,4000,1337,6,Process Automatik,tecnologia,100,Mensalista
+14,3562,09/04/2021,6000,1022,2,Movéis Rur,Construção e Casa,200,Por Demanda
+26,4812,07/04/2019,3000,677,8,Rusticos,Venda de Movéis,200,Por Demanda
+24,1858,19/04/2020,4000,910,2,Teck e Rede,Tecnologia,100,Mensalista
+14,4175,13/03/2020,6000,142,2,Movéis Rur,Construção e Casa,200,Por Demanda
+25,3470,18/09/2021,1000,76,8,Clinica Viva Bem,Saúde,200,Por Demanda
+12,392,13/08/2020,6000,920,5,Pet Tudo,Animais,200,Por Demanda
+22,1848,21/08/2020,4000,938,6,Process Automatik,tecnologia,100,Mensalista
+10,3596,11/10/2020,3000,1165,1,Lojas Viva,Varejo,200,Por Demanda
+19,1839,01/03/2018,5000,504,4,PCs e CIA,Tecnologia,200,Por Demanda
+25,4663,11/07/2017,6000,1398,8,Clinica Viva Bem,Saúde,200,Por Demanda
+16,2443,06/02/2018,4000,241,6,Data Description,Tecnologia,100,Mensalista
+17,1930,08/08/2019,2000,1404,5,Ferragens Morais,Construção e Casa,100,Mensalista
+16,3001,31/05/2018,6000,961,6,Data Description,Tecnologia,100,Mensalista
+12,577,24/11/2020,7000,79,5,Pet Tudo,Animais,200,Por Demanda
+20,900,31/10/2017,7000,283,4,Brink Hoje,Entretenimento,200,Por Demanda
+20,583,30/03/2020,6000,70,4,Brink Hoje,Entretenimento,200,Por Demanda
+14,2714,20/04/2021,4000,1105,2,Movéis Rur,Construção e Casa,200,Por Demanda
+15,2417,16/06/2017,2000,78,1,Qualidade é Tudo,Varejo,100,Mensalista
+20,1865,13/06/2018,3000,1349,4,Brink Hoje,Entretenimento,200,Por Demanda
+21,2754,19/02/2018,2000,335,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,,04/06/2018,4000,198,8,Clinica Viva Bem,Saúde,200,Por Demanda
+16,4943,28/10/2018,4000,1107,6,Data Description,Tecnologia,100,Mensalista
+11,222,18/03/2020,3000,831,3,Justamente,Saúde e Beleza,100,Mensalista
+21,1938,10/05/2019,3000,807,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+20,1927,14/01/2021,6000,421,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,1063,27/09/2020,1000,59,5,Ferragens Morais,Construção e Casa,100,Mensalista
+26,2823,29/12/2019,7000,163,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,3140,27/12/2020,1000,1302,3,Justamente,Saúde e Beleza,100,Mensalista
+23,4426,24/07/2020,2000,1416,7,Sua Vida,Saude,100,Mensalista
+19,4981,11/02/2021,3000,688,4,PCs e CIA,Tecnologia,200,Por Demanda
+11,2139,01/08/2017,6000,55,3,Justamente,Saúde e Beleza,100,Mensalista
+17,2639,05/12/2020,4000,179,5,Ferragens Morais,Construção e Casa,100,Mensalista
+19,356,22/12/2018,3000,47,4,PCs e CIA,Tecnologia,200,Por Demanda
+25,4510,05/03/2020,3000,670,8,Clinica Viva Bem,Saúde,200,Por Demanda
+26,1391,17/10/2020,5000,111,8,Rusticos,Venda de Movéis,200,Por Demanda
+22,225,14/04/2020,3000,995,6,Process Automatik,tecnologia,100,Mensalista
+19,1116,16/01/2021,5000,692,4,PCs e CIA,Tecnologia,200,Por Demanda
+26,4388,16/02/2021,1000,322,8,Rusticos,Venda de Movéis,200,Por Demanda
+16,4014,25/04/2020,4000,1016,6,Data Description,Tecnologia,100,Mensalista
+19,423,21/03/2017,1000,1067,4,PCs e CIA,Tecnologia,200,Por Demanda
+17,310,06/04/2017,7000,460,5,Ferragens Morais,Construção e Casa,100,Mensalista
+10,1144,03/11/2020,2000,247,1,Lojas Viva,Varejo,200,Por Demanda
+26,2154,09/09/2018,5000,1048,8,Rusticos,Venda de Movéis,200,Por Demanda
+20,2889,07/04/2021,7000,61,4,Brink Hoje,Entretenimento,200,Por Demanda
+22,4037,04/08/2020,7000,195,6,Process Automatik,tecnologia,100,Mensalista
+20,4080,28/01/2020,5000,1427,4,Brink Hoje,Entretenimento,200,Por Demanda
+10,1524,17/07/2017,5000,1233,1,Lojas Viva,Varejo,200,Por Demanda
+16,161,20/08/2017,2000,1138,6,Data Description,Tecnologia,100,Mensalista
+17,1209,26/03/2018,2000,1339,5,Ferragens Morais,Construção e Casa,100,Mensalista
+23,2781,28/12/2019,4000,1231,7,Sua Vida,Saude,100,Mensalista
+15,4874,15/01/2021,4000,899,1,Qualidade é Tudo,Varejo,100,Mensalista
+22,1855,29/12/2017,5000,646,6,Process Automatik,tecnologia,100,Mensalista
+10,2180,17/08/2019,5000,1363,1,Lojas Viva,Varejo,200,Por Demanda
+12,1724,02/01/2018,5000,170,5,Pet Tudo,Animais,200,Por Demanda
+24,4571,22/12/2019,1000,355,2,Teck e Rede,Tecnologia,100,Mensalista
+25,2095,27/06/2021,6000,1244,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,2535,26/08/2019,4000,701,1,Lojas Viva,Varejo,200,Por Demanda
+10,4124,14/12/2019,6000,239,1,Lojas Viva,Varejo,200,Por Demanda
+14,982,01/02/2019,5000,915,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,2128,10/07/2019,5000,530,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+17,810,05/09/2017,4000,109,5,Ferragens Morais,Construção e Casa,100,Mensalista
+14,4697,15/12/2017,5000,1086,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,2277,26/06/2020,4000,407,2,Movéis Rur,Construção e Casa,200,Por Demanda
+12,3642,08/06/2017,2000,1083,5,Pet Tudo,Animais,200,Por Demanda
+21,3015,24/12/2017,2000,638,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+20,2783,27/01/2020,4000,1228,4,Brink Hoje,Entretenimento,200,Por Demanda
+26,208,02/08/2017,6000,102,8,Rusticos,Venda de Movéis,200,Por Demanda
+12,1034,13/02/2018,6000,1400,5,Pet Tudo,Animais,200,Por Demanda
+24,4427,15/05/2017,1000,168,2,Teck e Rede,Tecnologia,100,Mensalista
+11,4812,20/11/2020,3000,1163,3,Justamente,Saúde e Beleza,100,Mensalista
+25,858,15/12/2021,6000,160,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,3972,23/08/2017,4000,1344,5,Ferragens Morais,Construção e Casa,100,Mensalista
+21,1874,16/10/2021,2000,657,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,810,04/06/2020,6000,638,2,Teck e Rede,Tecnologia,100,Mensalista
+25,2613,26/06/2018,1000,582,8,Clinica Viva Bem,Saúde,200,Por Demanda
+25,834,31/05/2018,2000,713,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,3233,17/02/2018,4000,1302,6,Process Automatik,tecnologia,100,Mensalista
+22,395,16/12/2021,2000,32,6,Process Automatik,tecnologia,100,Mensalista
+25,4504,23/03/2020,5000,1092,8,Clinica Viva Bem,Saúde,200,Por Demanda
+23,3308,21/03/2017,7000,408,7,Sua Vida,Saude,100,Mensalista
+11,2918,13/11/2018,4000,738,3,Justamente,Saúde e Beleza,100,Mensalista
+11,4760,10/08/2018,6000,493,3,Justamente,Saúde e Beleza,100,Mensalista
+12,4390,07/06/2017,7000,1168,5,Pet Tudo,Animais,200,Por Demanda
+11,2936,13/11/2019,2000,1343,3,Justamente,Saúde e Beleza,100,Mensalista
+15,3307,22/12/2021,2000,23,1,Qualidade é Tudo,Varejo,100,Mensalista
+17,1975,11/02/2021,4000,9,5,Ferragens Morais,Construção e Casa,100,Mensalista
+19,555,25/11/2017,7000,99,4,PCs e CIA,Tecnologia,200,Por Demanda
+10,515,06/04/2019,5000,970,1,Lojas Viva,Varejo,200,Por Demanda
+10,1911,13/08/2019,3000,702,1,Lojas Viva,Varejo,200,Por Demanda
+21,4634,20/09/2020,6000,1199,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,2438,12/06/2019,7000,530,2,Teck e Rede,Tecnologia,100,Mensalista
+11,2236,08/11/2020,5000,237,3,Justamente,Saúde e Beleza,100,Mensalista
+26,4237,11/05/2019,6000,186,8,Rusticos,Venda de Movéis,200,Por Demanda
+26,573,29/06/2017,7000,1203,8,Rusticos,Venda de Movéis,200,Por Demanda
+15,1537,23/03/2019,1000,1239,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,4929,15/03/2017,7000,419,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,3507,18/11/2020,3000,301,1,Qualidade é Tudo,Varejo,100,Mensalista
+16,1359,02/06/2017,5000,1319,6,Data Description,Tecnologia,100,Mensalista
+26,1741,15/04/2018,3000,678,8,Rusticos,Venda de Movéis,200,Por Demanda
+15,1991,10/05/2018,4000,355,1,Qualidade é Tudo,Varejo,100,Mensalista
+14,3636,10/07/2019,2000,693,2,Movéis Rur,Construção e Casa,200,Por Demanda
+17,2080,04/03/2021,3000,27,5,Ferragens Morais,Construção e Casa,100,Mensalista
+20,1416,02/05/2021,7000,237,4,Brink Hoje,Entretenimento,200,Por Demanda
+14,3303,19/12/2020,5000,566,2,Movéis Rur,Construção e Casa,200,Por Demanda
+15,,02/07/2019,1000,1148,1,Qualidade é Tudo,Varejo,100,Mensalista
+26,421,21/08/2019,7000,984,8,Rusticos,Venda de Movéis,200,Por Demanda
+14,4039,26/05/2019,3000,1263,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,486,05/10/2019,4000,1129,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,2429,22/03/2019,5000,1199,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,3419,09/10/2021,3000,613,6,Process Automatik,tecnologia,100,Mensalista
+23,2590,27/09/2021,3000,833,7,Sua Vida,Saude,100,Mensalista
+12,870,21/04/2021,4000,409,5,Pet Tudo,Animais,200,Por Demanda
+16,3735,30/04/2017,6000,1039,6,Data Description,Tecnologia,100,Mensalista
+20,2181,30/09/2020,5000,669,4,Brink Hoje,Entretenimento,200,Por Demanda
+21,1920,24/08/2018,1000,747,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,2300,06/02/2019,1000,56,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,4400,10/05/2020,2000,851,3,Justamente,Saúde e Beleza,100,Mensalista
+20,3763,26/01/2021,4000,1086,4,Brink Hoje,Entretenimento,200,Por Demanda
+19,1841,19/02/2020,1000,379,4,PCs e CIA,Tecnologia,200,Por Demanda
+15,3491,07/09/2019,3000,973,1,Qualidade é Tudo,Varejo,100,Mensalista
+25,3760,14/12/2021,3000,1233,8,Clinica Viva Bem,Saúde,200,Por Demanda
+11,2702,11/11/2021,6000,963,3,Justamente,Saúde e Beleza,100,Mensalista
+23,552,07/06/2020,6000,1154,7,Sua Vida,Saude,100,Mensalista
+21,3670,10/02/2020,1000,922,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,1872,26/12/2020,7000,788,8,Rusticos,Venda de Movéis,200,Por Demanda
+12,3955,13/06/2020,3000,811,5,Pet Tudo,Animais,200,Por Demanda
+23,3096,08/06/2021,2000,934,7,Sua Vida,Saude,100,Mensalista
+19,1181,10/07/2017,3000,132,4,PCs e CIA,Tecnologia,200,Por Demanda
+17,2063,23/08/2021,3000,1385,5,Ferragens Morais,Construção e Casa,100,Mensalista
+23,1643,03/12/2018,2000,352,7,Sua Vida,Saude,100,Mensalista
+17,1366,13/03/2020,5000,1242,5,Ferragens Morais,Construção e Casa,100,Mensalista
+17,4726,28/05/2019,4000,247,5,Ferragens Morais,Construção e Casa,100,Mensalista
+14,2528,07/02/2020,5000,764,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,1991,25/12/2021,2000,416,2,Movéis Rur,Construção e Casa,200,Por Demanda
+25,4334,10/01/2018,3000,1401,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,345,06/08/2018,4000,827,6,Process Automatik,tecnologia,100,Mensalista
+22,1402,01/08/2017,4000,244,6,Process Automatik,tecnologia,100,Mensalista
+24,602,29/12/2021,4000,482,2,Teck e Rede,Tecnologia,100,Mensalista
+23,1981,09/06/2021,6000,644,7,Sua Vida,Saude,100,Mensalista
+26,678,29/06/2017,4000,184,8,Rusticos,Venda de Movéis,200,Por Demanda
+17,2300,16/01/2020,3000,1315,5,Ferragens Morais,Construção e Casa,100,Mensalista
+15,4103,18/05/2021,5000,114,1,Qualidade é Tudo,Varejo,100,Mensalista
+16,3000,08/02/2019,2000,1179,6,Data Description,Tecnologia,100,Mensalista
+21,2145,06/08/2017,3000,805,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+15,1052,12/09/2018,6000,66,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,2397,22/11/2020,6000,1427,1,Lojas Viva,Varejo,200,Por Demanda
+22,4873,21/06/2021,2000,1193,6,Process Automatik,tecnologia,100,Mensalista
+21,4079,27/11/2019,3000,988,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+19,4248,04/06/2021,7000,625,4,PCs e CIA,Tecnologia,200,Por Demanda
+24,4937,27/07/2017,5000,786,2,Teck e Rede,Tecnologia,100,Mensalista
+23,775,16/07/2021,5000,1232,7,Sua Vida,Saude,100,Mensalista
+16,1399,09/08/2021,4000,286,6,Data Description,Tecnologia,100,Mensalista
+17,4886,26/04/2020,2000,1340,5,Ferragens Morais,Construção e Casa,100,Mensalista
+17,2409,04/03/2021,6000,926,5,Ferragens Morais,Construção e Casa,100,Mensalista
+19,2603,09/07/2020,6000,937,4,PCs e CIA,Tecnologia,200,Por Demanda
+21,3330,02/10/2018,1000,198,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+19,417,14/06/2017,5000,168,4,PCs e CIA,Tecnologia,200,Por Demanda
+11,1079,28/06/2017,7000,582,3,Justamente,Saúde e Beleza,100,Mensalista
+23,2698,15/09/2018,7000,1000,7,Sua Vida,Saude,100,Mensalista
+10,4749,22/11/2021,2000,539,1,Lojas Viva,Varejo,200,Por Demanda
+25,1747,08/02/2019,6000,581,8,Clinica Viva Bem,Saúde,200,Por Demanda
+16,2787,07/04/2020,4000,1018,6,Data Description,Tecnologia,100,Mensalista
+23,1466,29/09/2017,2000,1252,7,Sua Vida,Saude,100,Mensalista
+22,3350,28/03/2017,2000,592,6,Process Automatik,tecnologia,100,Mensalista
+24,3972,20/07/2018,6000,875,2,Teck e Rede,Tecnologia,100,Mensalista
+20,1901,31/10/2019,4000,599,4,Brink Hoje,Entretenimento,200,Por Demanda
+16,1295,22/06/2021,6000,628,6,Data Description,Tecnologia,100,Mensalista
+21,4674,23/01/2019,6000,257,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,1295,09/08/2019,3000,796,8,Clinica Viva Bem,Saúde,200,Por Demanda
+15,2495,12/08/2017,7000,293,1,Qualidade é Tudo,Varejo,100,Mensalista
+21,2364,28/12/2017,4000,161,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,3835,04/03/2017,4000,1201,8,Rusticos,Venda de Movéis,200,Por Demanda
+14,1201,09/06/2021,4000,1408,2,Movéis Rur,Construção e Casa,200,Por Demanda
+26,713,07/12/2017,3000,139,8,Rusticos,Venda de Movéis,200,Por Demanda
+19,4186,26/03/2017,7000,168,4,PCs e CIA,Tecnologia,200,Por Demanda
+19,4126,23/12/2018,6000,227,4,PCs e CIA,Tecnologia,200,Por Demanda
+14,1449,25/04/2021,3000,465,2,Movéis Rur,Construção e Casa,200,Por Demanda
+10,4482,07/10/2020,5000,787,1,Lojas Viva,Varejo,200,Por Demanda
+19,2449,02/12/2018,1000,988,4,PCs e CIA,Tecnologia,200,Por Demanda
+26,884,18/12/2018,1000,302,8,Rusticos,Venda de Movéis,200,Por Demanda
+20,4401,05/11/2020,4000,853,4,Brink Hoje,Entretenimento,200,Por Demanda
+19,2012,23/01/2017,5000,240,4,PCs e CIA,Tecnologia,200,Por Demanda
+22,1242,25/07/2021,6000,1046,6,Process Automatik,tecnologia,100,Mensalista
+10,857,16/09/2021,3000,893,1,Lojas Viva,Varejo,200,Por Demanda
+22,3439,06/07/2018,7000,210,6,Process Automatik,tecnologia,100,Mensalista
+20,1242,13/03/2018,2000,260,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,2921,01/06/2019,3000,1002,5,Ferragens Morais,Construção e Casa,100,Mensalista
+22,990,18/04/2018,6000,492,6,Process Automatik,tecnologia,100,Mensalista
+22,726,31/07/2020,2000,235,6,Process Automatik,tecnologia,100,Mensalista
+10,1234,14/02/2018,5000,13,1,Lojas Viva,Varejo,200,Por Demanda
+21,2449,21/10/2020,3000,160,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+10,453,29/12/2017,1000,570,1,Lojas Viva,Varejo,200,Por Demanda
+25,2636,03/09/2018,1000,367,8,Clinica Viva Bem,Saúde,200,Por Demanda
+24,606,29/09/2020,6000,419,2,Teck e Rede,Tecnologia,100,Mensalista
+23,1111,10/01/2019,4000,240,7,Sua Vida,Saude,100,Mensalista
+15,3851,08/02/2019,4000,1331,1,Qualidade é Tudo,Varejo,100,Mensalista
+24,2397,24/05/2020,2000,928,2,Teck e Rede,Tecnologia,100,Mensalista
+22,4774,21/03/2017,7000,1174,6,Process Automatik,tecnologia,100,Mensalista
+15,646,18/11/2019,1000,618,1,Qualidade é Tudo,Varejo,100,Mensalista
+17,1893,07/05/2020,6000,573,5,Ferragens Morais,Construção e Casa,100,Mensalista
+26,3691,21/07/2019,2000,837,8,Rusticos,Venda de Movéis,200,Por Demanda
+10,1068,21/05/2021,2000,992,1,Lojas Viva,Varejo,200,Por Demanda
+11,1752,12/07/2018,7000,95,3,Justamente,Saúde e Beleza,100,Mensalista
+25,3657,23/11/2018,5000,1268,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,3465,19/08/2017,4000,1155,6,Process Automatik,tecnologia,100,Mensalista
+23,4662,17/12/2019,7000,661,7,Sua Vida,Saude,100,Mensalista
+15,1052,11/03/2020,6000,95,1,Qualidade é Tudo,Varejo,100,Mensalista
+24,2630,18/10/2017,5000,576,2,Teck e Rede,Tecnologia,100,Mensalista
+19,1224,15/03/2017,2000,1143,4,PCs e CIA,Tecnologia,200,Por Demanda
+10,692,23/05/2020,2000,1303,1,Lojas Viva,Varejo,200,Por Demanda
+25,1579,28/07/2019,3000,57,8,Clinica Viva Bem,Saúde,200,Por Demanda
+16,3638,31/01/2017,6000,706,6,Data Description,Tecnologia,100,Mensalista
+20,4680,02/09/2021,2000,79,4,Brink Hoje,Entretenimento,200,Por Demanda
+10,4212,14/03/2018,3000,615,1,Lojas Viva,Varejo,200,Por Demanda
+15,4631,28/09/2020,1000,1391,1,Qualidade é Tudo,Varejo,100,Mensalista
+12,3120,19/08/2018,4000,919,5,Pet Tudo,Animais,200,Por Demanda
+21,1061,03/04/2021,1000,1281,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+17,2471,13/05/2018,2000,1056,5,Ferragens Morais,Construção e Casa,100,Mensalista
+21,3357,19/09/2017,4000,792,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+16,2689,31/07/2021,3000,581,6,Data Description,Tecnologia,100,Mensalista
+15,3106,28/11/2021,5000,637,1,Qualidade é Tudo,Varejo,100,Mensalista
+20,2584,20/02/2020,1000,1396,4,Brink Hoje,Entretenimento,200,Por Demanda
+10,361,09/11/2021,5000,719,1,Lojas Viva,Varejo,200,Por Demanda
+12,592,28/09/2017,4000,1380,5,Pet Tudo,Animais,200,Por Demanda
+26,4748,17/08/2018,6000,1435,8,Rusticos,Venda de Movéis,200,Por Demanda
+16,2168,15/06/2017,3000,440,6,Data Description,Tecnologia,100,Mensalista
+26,748,03/07/2017,6000,585,8,Rusticos,Venda de Movéis,200,Por Demanda
+22,467,18/05/2020,5000,377,6,Process Automatik,tecnologia,100,Mensalista
+14,1587,18/08/2021,4000,304,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,3019,03/04/2021,7000,640,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,2499,18/05/2020,5000,1437,2,Movéis Rur,Construção e Casa,200,Por Demanda
+23,2337,16/09/2019,3000,1220,7,Sua Vida,Saude,100,Mensalista
+22,294,22/10/2019,6000,931,6,Process Automatik,tecnologia,100,Mensalista
+19,1624,23/05/2019,2000,788,4,PCs e CIA,Tecnologia,200,Por Demanda
+21,3412,13/11/2019,2000,1318,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+19,4559,30/08/2019,6000,1368,4,PCs e CIA,Tecnologia,200,Por Demanda
+14,3727,27/05/2020,4000,1084,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,4067,16/10/2021,6000,1422,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+11,442,11/07/2019,6000,718,3,Justamente,Saúde e Beleza,100,Mensalista
+22,2614,02/09/2021,1000,857,6,Process Automatik,tecnologia,100,Mensalista
+14,3996,07/03/2017,4000,417,2,Movéis Rur,Construção e Casa,200,Por Demanda
+25,1930,27/03/2017,1000,1280,8,Clinica Viva Bem,Saúde,200,Por Demanda
+16,4034,12/09/2020,3000,617,6,Data Description,Tecnologia,100,Mensalista
+24,4580,04/11/2019,3000,642,2,Teck e Rede,Tecnologia,100,Mensalista
+19,2634,26/04/2019,7000,745,4,PCs e CIA,Tecnologia,200,Por Demanda
+23,3915,05/07/2019,3000,1170,7,Sua Vida,Saude,100,Mensalista
+22,2302,10/11/2017,7000,279,6,Process Automatik,tecnologia,100,Mensalista
+25,2504,04/05/2018,7000,385,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,3029,01/04/2018,3000,196,5,Ferragens Morais,Construção e Casa,100,Mensalista
+24,2859,12/09/2017,4000,1122,2,Teck e Rede,Tecnologia,100,Mensalista
+12,4824,10/08/2021,5000,1400,5,Pet Tudo,Animais,200,Por Demanda
+10,944,23/06/2020,7000,447,1,Lojas Viva,Varejo,200,Por Demanda
+12,1189,03/07/2019,5000,935,5,Pet Tudo,Animais,200,Por Demanda
+15,2764,15/09/2021,6000,1172,1,Qualidade é Tudo,Varejo,100,Mensalista
+14,1900,03/10/2021,2000,1351,2,Movéis Rur,Construção e Casa,200,Por Demanda
+20,1813,05/06/2017,5000,1120,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,4448,30/12/2020,1000,703,7,Sua Vida,Saude,100,Mensalista
+24,2436,17/01/2018,2000,1316,2,Teck e Rede,Tecnologia,100,Mensalista
+14,3401,03/10/2020,3000,335,2,Movéis Rur,Construção e Casa,200,Por Demanda
+22,3453,27/05/2020,2000,477,6,Process Automatik,tecnologia,100,Mensalista
+22,2672,19/07/2021,5000,705,6,Process Automatik,tecnologia,100,Mensalista
+21,,13/12/2019,7000,1080,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+16,1148,26/09/2021,3000,492,6,Data Description,Tecnologia,100,Mensalista
+19,1359,04/11/2021,4000,1285,4,PCs e CIA,Tecnologia,200,Por Demanda
+11,3135,16/12/2018,2000,1068,3,Justamente,Saúde e Beleza,100,Mensalista
+23,3216,26/12/2021,4000,150,7,Sua Vida,Saude,100,Mensalista
+22,2578,29/12/2018,5000,772,6,Process Automatik,tecnologia,100,Mensalista
+15,1644,17/09/2018,5000,1064,1,Qualidade é Tudo,Varejo,100,Mensalista
+12,2685,28/06/2018,4000,251,5,Pet Tudo,Animais,200,Por Demanda
+11,3624,03/06/2020,2000,461,3,Justamente,Saúde e Beleza,100,Mensalista
+25,3533,11/12/2019,2000,1338,8,Clinica Viva Bem,Saúde,200,Por Demanda
+26,3669,05/04/2018,6000,61,8,Rusticos,Venda de Movéis,200,Por Demanda
+21,4803,29/10/2018,3000,1106,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+16,3508,08/06/2019,3000,425,6,Data Description,Tecnologia,100,Mensalista
+11,2268,28/06/2017,5000,1004,3,Justamente,Saúde e Beleza,100,Mensalista
+24,2376,30/11/2021,6000,547,2,Teck e Rede,Tecnologia,100,Mensalista
+24,1037,14/04/2021,1000,745,2,Teck e Rede,Tecnologia,100,Mensalista
+10,526,17/09/2017,5000,955,1,Lojas Viva,Varejo,200,Por Demanda
+20,3410,11/12/2020,7000,669,4,Brink Hoje,Entretenimento,200,Por Demanda
+19,1305,05/06/2019,7000,155,4,PCs e CIA,Tecnologia,200,Por Demanda
+24,603,22/12/2018,2000,88,2,Teck e Rede,Tecnologia,100,Mensalista
+12,4923,07/10/2021,4000,141,5,Pet Tudo,Animais,200,Por Demanda
+10,4635,31/08/2021,5000,1402,1,Lojas Viva,Varejo,200,Por Demanda
+12,1447,28/05/2020,4000,1386,5,Pet Tudo,Animais,200,Por Demanda
+26,4452,18/08/2018,4000,810,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,2460,21/06/2021,7000,368,3,Justamente,Saúde e Beleza,100,Mensalista
+12,2006,05/10/2020,3000,536,5,Pet Tudo,Animais,200,Por Demanda
+25,311,14/08/2018,5000,836,8,Clinica Viva Bem,Saúde,200,Por Demanda
+21,3555,14/04/2017,7000,460,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+15,2877,29/08/2018,2000,997,1,Qualidade é Tudo,Varejo,100,Mensalista
+25,197,22/03/2018,7000,259,8,Clinica Viva Bem,Saúde,200,Por Demanda
+15,1337,29/03/2018,7000,1303,1,Qualidade é Tudo,Varejo,100,Mensalista
+19,4088,04/09/2017,6000,711,4,PCs e CIA,Tecnologia,200,Por Demanda
+23,4096,25/04/2019,2000,487,7,Sua Vida,Saude,100,Mensalista
+10,2872,26/08/2017,4000,713,1,Lojas Viva,Varejo,200,Por Demanda
+17,721,27/09/2017,7000,696,5,Ferragens Morais,Construção e Casa,100,Mensalista
+14,3704,20/11/2019,4000,1124,2,Movéis Rur,Construção e Casa,200,Por Demanda
+23,295,24/09/2020,2000,1002,7,Sua Vida,Saude,100,Mensalista
+16,501,07/12/2019,6000,814,6,Data Description,Tecnologia,100,Mensalista
+24,2476,30/12/2019,3000,240,2,Teck e Rede,Tecnologia,100,Mensalista
+15,1874,24/12/2020,4000,199,1,Qualidade é Tudo,Varejo,100,Mensalista
+14,4635,16/09/2019,4000,784,2,Movéis Rur,Construção e Casa,200,Por Demanda
+22,2138,24/05/2020,5000,16,6,Process Automatik,tecnologia,100,Mensalista
+25,1686,15/06/2019,7000,170,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,4839,16/01/2021,4000,941,6,Process Automatik,tecnologia,100,Mensalista
+14,842,19/02/2017,1000,583,2,Movéis Rur,Construção e Casa,200,Por Demanda
+17,4321,27/04/2018,5000,444,5,Ferragens Morais,Construção e Casa,100,Mensalista
+20,866,08/08/2021,6000,176,4,Brink Hoje,Entretenimento,200,Por Demanda
+22,2454,21/02/2020,1000,224,6,Process Automatik,tecnologia,100,Mensalista
+12,4701,26/08/2021,2000,879,5,Pet Tudo,Animais,200,Por Demanda
+23,2201,13/10/2020,1000,288,7,Sua Vida,Saude,100,Mensalista
+23,4865,07/10/2018,2000,827,7,Sua Vida,Saude,100,Mensalista
+25,393,03/09/2021,5000,856,8,Clinica Viva Bem,Saúde,200,Por Demanda
+24,420,10/08/2017,7000,728,2,Teck e Rede,Tecnologia,100,Mensalista
+10,4346,13/05/2018,5000,1300,1,Lojas Viva,Varejo,200,Por Demanda
+10,4961,06/03/2017,2000,920,1,Lojas Viva,Varejo,200,Por Demanda
+25,1432,01/01/2019,7000,457,8,Clinica Viva Bem,Saúde,200,Por Demanda
+19,2498,26/12/2019,6000,334,4,PCs e CIA,Tecnologia,200,Por Demanda
+25,1849,24/06/2017,1000,144,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,3839,03/04/2017,1000,1182,1,Lojas Viva,Varejo,200,Por Demanda
+16,926,04/06/2020,1000,1353,6,Data Description,Tecnologia,100,Mensalista
+12,299,27/08/2021,2000,961,5,Pet Tudo,Animais,200,Por Demanda
+23,3519,29/05/2017,7000,95,7,Sua Vida,Saude,100,Mensalista
+19,3847,02/07/2020,3000,208,4,PCs e CIA,Tecnologia,200,Por Demanda
+19,2032,26/08/2021,4000,282,4,PCs e CIA,Tecnologia,200,Por Demanda
+26,4374,02/02/2018,2000,1278,8,Rusticos,Venda de Movéis,200,Por Demanda
+19,1488,21/08/2018,6000,695,4,PCs e CIA,Tecnologia,200,Por Demanda
+24,993,27/10/2019,5000,846,2,Teck e Rede,Tecnologia,100,Mensalista
+15,1767,05/05/2018,1000,775,1,Qualidade é Tudo,Varejo,100,Mensalista
+21,1550,01/03/2018,7000,1431,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+20,3081,11/04/2021,1000,387,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,1301,22/03/2019,6000,1158,5,Ferragens Morais,Construção e Casa,100,Mensalista
+16,967,24/08/2018,2000,703,6,Data Description,Tecnologia,100,Mensalista
+17,1407,25/08/2018,2000,1212,5,Ferragens Morais,Construção e Casa,100,Mensalista
+11,4371,29/03/2019,7000,77,3,Justamente,Saúde e Beleza,100,Mensalista
+22,2136,08/08/2020,4000,992,6,Process Automatik,tecnologia,100,Mensalista
+25,1211,13/11/2017,4000,36,8,Clinica Viva Bem,Saúde,200,Por Demanda
+11,4602,31/01/2019,3000,389,3,Justamente,Saúde e Beleza,100,Mensalista
+22,3489,02/02/2018,6000,321,6,Process Automatik,tecnologia,100,Mensalista
+23,815,10/10/2018,5000,684,7,Sua Vida,Saude,100,Mensalista
+26,4476,07/06/2020,2000,822,8,Rusticos,Venda de Movéis,200,Por Demanda
+21,333,29/05/2019,3000,972,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,4198,23/07/2020,5000,287,2,Teck e Rede,Tecnologia,100,Mensalista
+24,3908,27/07/2021,7000,483,2,Teck e Rede,Tecnologia,100,Mensalista
+23,222,19/05/2021,1000,1197,7,Sua Vida,Saude,100,Mensalista
+12,178,19/11/2021,2000,986,5,Pet Tudo,Animais,200,Por Demanda
+26,3470,29/10/2019,1000,1296,8,Rusticos,Venda de Movéis,200,Por Demanda
+26,4618,09/09/2017,4000,1295,8,Rusticos,Venda de Movéis,200,Por Demanda
+22,2688,25/05/2019,1000,880,6,Process Automatik,tecnologia,100,Mensalista
+15,1636,14/11/2019,2000,533,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,802,24/01/2017,7000,800,1,Qualidade é Tudo,Varejo,100,Mensalista
+23,3483,15/07/2021,5000,912,7,Sua Vida,Saude,100,Mensalista
+12,3731,01/11/2021,2000,1117,5,Pet Tudo,Animais,200,Por Demanda
+14,4823,29/01/2018,6000,165,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,192,19/07/2017,1000,723,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,1600,13/02/2021,3000,1300,8,Rusticos,Venda de Movéis,200,Por Demanda
+10,161,24/04/2018,7000,892,1,Lojas Viva,Varejo,200,Por Demanda
+21,213,05/09/2019,3000,395,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,2295,15/05/2017,1000,1142,8,Clinica Viva Bem,Saúde,200,Por Demanda
+24,1680,26/03/2018,3000,284,2,Teck e Rede,Tecnologia,100,Mensalista
+11,1311,24/07/2019,7000,821,3,Justamente,Saúde e Beleza,100,Mensalista
+11,,01/07/2019,5000,505,3,Justamente,Saúde e Beleza,100,Mensalista
+10,3916,01/05/2019,2000,1352,1,Lojas Viva,Varejo,200,Por Demanda
+21,2796,17/11/2017,2000,112,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,4381,24/04/2021,6000,1039,8,Rusticos,Venda de Movéis,200,Por Demanda
+26,4041,31/10/2020,6000,773,8,Rusticos,Venda de Movéis,200,Por Demanda
+23,4790,06/05/2018,5000,762,7,Sua Vida,Saude,100,Mensalista
+26,1233,29/05/2021,3000,71,8,Rusticos,Venda de Movéis,200,Por Demanda
+19,3178,10/02/2020,5000,1272,4,PCs e CIA,Tecnologia,200,Por Demanda
+22,4232,27/04/2017,7000,1167,6,Process Automatik,tecnologia,100,Mensalista
+15,4132,29/08/2018,2000,180,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,3381,17/07/2021,4000,148,1,Lojas Viva,Varejo,200,Por Demanda
+14,841,14/08/2019,3000,264,2,Movéis Rur,Construção e Casa,200,Por Demanda
+10,2630,07/07/2019,6000,1066,1,Lojas Viva,Varejo,200,Por Demanda
+22,1769,01/09/2020,6000,247,6,Process Automatik,tecnologia,100,Mensalista
+15,4872,04/11/2018,7000,938,1,Qualidade é Tudo,Varejo,100,Mensalista
+17,4232,08/09/2021,4000,495,5,Ferragens Morais,Construção e Casa,100,Mensalista
+15,3251,25/02/2017,2000,341,1,Qualidade é Tudo,Varejo,100,Mensalista
+19,609,01/03/2018,5000,515,4,PCs e CIA,Tecnologia,200,Por Demanda
+12,696,11/10/2017,5000,105,5,Pet Tudo,Animais,200,Por Demanda
+21,1619,18/07/2017,1000,264,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+12,1454,05/02/2017,3000,778,5,Pet Tudo,Animais,200,Por Demanda
+11,3716,04/01/2018,4000,1125,3,Justamente,Saúde e Beleza,100,Mensalista
+21,764,08/05/2020,7000,549,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,1328,21/12/2019,6000,841,2,Teck e Rede,Tecnologia,100,Mensalista
+15,2303,06/01/2020,1000,1151,1,Qualidade é Tudo,Varejo,100,Mensalista
+19,3929,31/12/2019,1000,1156,4,PCs e CIA,Tecnologia,200,Por Demanda
+26,1968,24/12/2021,2000,870,8,Rusticos,Venda de Movéis,200,Por Demanda
+14,4183,16/12/2020,3000,396,2,Movéis Rur,Construção e Casa,200,Por Demanda
+20,450,18/07/2019,1000,685,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,261,18/06/2018,1000,99,7,Sua Vida,Saude,100,Mensalista
+23,903,27/09/2020,7000,826,7,Sua Vida,Saude,100,Mensalista
+25,2319,17/04/2020,7000,312,8,Clinica Viva Bem,Saúde,200,Por Demanda
+20,901,17/11/2018,7000,643,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,3368,15/10/2017,6000,1399,5,Ferragens Morais,Construção e Casa,100,Mensalista
+21,4904,27/10/2017,6000,898,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,4038,30/11/2021,2000,296,8,Rusticos,Venda de Movéis,200,Por Demanda
+23,1169t,10/02/2017,6000,554,7,Sua Vida,Saude,100,Mensalista
+14,3688,29/09/2017,1000,798,2,Movéis Rur,Construção e Casa,200,Por Demanda
+26,3638,09/03/2017,2000,498,8,Rusticos,Venda de Movéis,200,Por Demanda
+20,361,10/08/2017,6000,1405,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,4867,05/11/2017,6000,771,7,Sua Vida,Saude,100,Mensalista
+16,2478,07/06/2021,4000,1307,6,Data Description,Tecnologia,100,Mensalista
+24,1184,08/02/2018,2000,244,2,Teck e Rede,Tecnologia,100,Mensalista
+14,1736,04/02/2019,5000,548,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,4056,14/07/2020,5000,1162,2,Movéis Rur,Construção e Casa,200,Por Demanda
+20,1974,09/02/2020,1000,302,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,3907,18/02/2021,4000,422,7,Sua Vida,Saude,100,Mensalista
+15,3940,06/07/2018,3000,634,1,Qualidade é Tudo,Varejo,100,Mensalista
+21,2708,29/12/2017,5000,737,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+21,4749,13/12/2017,2000,891,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+11,1888,16/08/2019,6000,1140,3,Justamente,Saúde e Beleza,100,Mensalista
+26,2195,21/01/2019,4000,1240,8,Rusticos,Venda de Movéis,200,Por Demanda
+25,1142,01/09/2017,1000,1382,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,756,22/09/2021,2000,1230,6,Process Automatik,tecnologia,100,Mensalista
+24,932,03/07/2017,3000,1042,2,Teck e Rede,Tecnologia,100,Mensalista
+19,4789,30/01/2017,6000,1366,4,PCs e CIA,Tecnologia,200,Por Demanda
+21,1626,06/01/2020,1000,145,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+10,1471,27/02/2017,4000,806,1,Lojas Viva,Varejo,200,Por Demanda
+10,2551,22/09/2019,2000,678,1,Lojas Viva,Varejo,200,Por Demanda
+19,1917,05/06/2020,3000,889,4,PCs e CIA,Tecnologia,200,Por Demanda
+24,800,01/06/2020,5000,954,2,Teck e Rede,Tecnologia,100,Mensalista
+16,4215,25/10/2019,3000,667,6,Data Description,Tecnologia,100,Mensalista
+21,517,24/10/2019,7000,1200,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+12,1496,08/01/2021,6000,459,5,Pet Tudo,Animais,200,Por Demanda
+12,4132,28/04/2020,7000,488,5,Pet Tudo,Animais,200,Por Demanda
+17,322,16/10/2019,4000,1316,5,Ferragens Morais,Construção e Casa,100,Mensalista
+10,2271,05/12/2021,3000,228,1,Lojas Viva,Varejo,200,Por Demanda
+12,788,23/10/2017,2000,613,5,Pet Tudo,Animais,200,Por Demanda
+23,1483,18/08/2019,4000,1345,7,Sua Vida,Saude,100,Mensalista
+19,1664,06/01/2017,4000,1098,4,PCs e CIA,Tecnologia,200,Por Demanda
+16,2367,25/06/2020,7000,364,6,Data Description,Tecnologia,100,Mensalista
+25,3869,17/07/2018,3000,295,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,4524,02/08/2017,6000,587,5,Ferragens Morais,Construção e Casa,100,Mensalista
+11,791,28/02/2018,7000,959,3,Justamente,Saúde e Beleza,100,Mensalista
+20,0.0.0,28/11/2021,4000,87,4,Brink Hoje,Entretenimento,200,Por Demanda
+21,3369,18/11/2017,1000,502,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+10,4127,17/05/2021,7000,1139,1,Lojas Viva,Varejo,200,Por Demanda
+26,2103,13/09/2018,7000,675,8,Rusticos,Venda de Movéis,200,Por Demanda
+10,551,23/03/2021,2000,343,1,Lojas Viva,Varejo,200,Por Demanda
+16,739,10/01/2017,5000,82,6,Data Description,Tecnologia,100,Mensalista
+21,3147,31/08/2018,3000,655,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,2910,30/11/2020,7000,1242,8,Rusticos,Venda de Movéis,200,Por Demanda
+20,974,21/09/2019,1000,1085,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,2008,16/11/2021,2000,1320,5,Ferragens Morais,Construção e Casa,100,Mensalista
+20,3702,25/03/2018,5000,294,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,1134,29/12/2018,7000,1232,7,Sua Vida,Saude,100,Mensalista
+15,3895,04/07/2018,1000,192,1,Qualidade é Tudo,Varejo,100,Mensalista
+20,3589,21/10/2021,7000,393,4,Brink Hoje,Entretenimento,200,Por Demanda
+25,4842,12/03/2017,7000,426,8,Clinica Viva Bem,Saúde,200,Por Demanda
+11,4020,26/05/2017,1000,933,3,Justamente,Saúde e Beleza,100,Mensalista
+17,484,10/08/2017,7000,107,5,Ferragens Morais,Construção e Casa,100,Mensalista
+11,4448,27/12/2021,6000,1120,3,Justamente,Saúde e Beleza,100,Mensalista
+25,3693,01/11/2021,1000,274,8,Clinica Viva Bem,Saúde,200,Por Demanda
+23,3997,28/09/2019,5000,241,7,Sua Vida,Saude,100,Mensalista
+20,2820,07/05/2021,1000,1390,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,2821,28/03/2017,6000,749,7,Sua Vida,Saude,100,Mensalista
+11,583,07/04/2019,4000,1110,3,Justamente,Saúde e Beleza,100,Mensalista
+25,1278,27/06/2018,3000,1274,8,Clinica Viva Bem,Saúde,200,Por Demanda
+14,3611,13/04/2017,6000,758,2,Movéis Rur,Construção e Casa,200,Por Demanda
+15,1067,31/05/2021,3000,670,1,Qualidade é Tudo,Varejo,100,Mensalista
+26,1965,04/09/2018,3000,429,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,3642,26/03/2019,5000,505,3,Justamente,Saúde e Beleza,100,Mensalista
+20,2572,22/07/2019,2000,967,4,Brink Hoje,Entretenimento,200,Por Demanda
+17,2025,16/07/2017,4000,868,5,Ferragens Morais,Construção e Casa,100,Mensalista
+14,1664,10/07/2017,6000,1357,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,2157,19/02/2019,4000,1110,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+24,1736,17/08/2017,1000,1321,2,Teck e Rede,Tecnologia,100,Mensalista
+10,2751,28/02/2019,2000,99,1,Lojas Viva,Varejo,200,Por Demanda
+22,4824,20/10/2018,4000,1167,6,Process Automatik,tecnologia,100,Mensalista
+22,4037,07/09/2021,4000,166,6,Process Automatik,tecnologia,100,Mensalista
+15,2943,07/07/2021,1000,447,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,155,21/01/2021,7000,947,1,Lojas Viva,Varejo,200,Por Demanda
+23,2486,21/11/2021,4000,137,7,Sua Vida,Saude,100,Mensalista
+12,4691,11/08/2019,7000,423,5,Pet Tudo,Animais,200,Por Demanda
+19,4968,17/10/2020,6000,273,4,PCs e CIA,Tecnologia,200,Por Demanda
+22,2776,14/08/2020,6000,1296,6,Process Automatik,tecnologia,100,Mensalista
+11,1937,10/02/2021,3000,260,3,Justamente,Saúde e Beleza,100,Mensalista
+12,4183,13/01/2018,7000,348,5,Pet Tudo,Animais,200,Por Demanda
+19,1247,09/06/2020,6000,1287,4,PCs e CIA,Tecnologia,200,Por Demanda
+23,3311,27/01/2019,2000,540,7,Sua Vida,Saude,100,Mensalista
+23,1902,20/12/2018,3000,17,7,Sua Vida,Saude,100,Mensalista
+20,1646,04/06/2019,2000,529,4,Brink Hoje,Entretenimento,200,Por Demanda
+20,2281,02/06/2020,3000,548,4,Brink Hoje,Entretenimento,200,Por Demanda
+22,901,01/11/2021,4000,492,6,Process Automatik,tecnologia,100,Mensalista
+14,4827,17/04/2019,6000,1369,2,Movéis Rur,Construção e Casa,200,Por Demanda
+24,1485,08/06/2021,4000,1330,2,Teck e Rede,Tecnologia,100,Mensalista
+22,3118,30/06/2020,2000,701,6,Process Automatik,tecnologia,100,Mensalista
+20,302,22/03/2017,1000,1068,4,Brink Hoje,Entretenimento,200,Por Demanda
+22,1965,20/12/2020,2000,362,6,Process Automatik,tecnologia,100,Mensalista
+22,2483,28/01/2021,7000,928,6,Process Automatik,tecnologia,100,Mensalista
+21,2835,24/10/2021,4000,790,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+20,2298,18/12/2020,7000,1332,4,Brink Hoje,Entretenimento,200,Por Demanda
+21,4964,04/06/2019,6000,913,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+12,1316,16/07/2019,7000,1241,5,Pet Tudo,Animais,200,Por Demanda
+11,3900,08/02/2019,1000,1394,3,Justamente,Saúde e Beleza,100,Mensalista
+23,1142,23/07/2021,6000,719,7,Sua Vida,Saude,100,Mensalista
+24,2451,17/09/2021,5000,1275,2,Teck e Rede,Tecnologia,100,Mensalista
+12,4610,07/03/2017,6000,984,5,Pet Tudo,Animais,200,Por Demanda
+11,3472,30/03/2021,7000,426,3,Justamente,Saúde e Beleza,100,Mensalista
+19,3252,26/07/2020,7000,44,4,PCs e CIA,Tecnologia,200,Por Demanda
+26,1869,23/07/2021,7000,510,8,Rusticos,Venda de Movéis,200,Por Demanda
+14,450,24/08/2017,1000,1184,2,Movéis Rur,Construção e Casa,200,Por Demanda
+23,2108,16/11/2021,3000,50,7,Sua Vida,Saude,100,Mensalista
+24,2251,25/08/2018,2000,743,2,Teck e Rede,Tecnologia,100,Mensalista
+16,2109,30/08/2018,7000,688,6,Data Description,Tecnologia,100,Mensalista
+11,2607,10/11/2019,4000,1314,3,Justamente,Saúde e Beleza,100,Mensalista
+26,573,11/09/2021,3000,645,8,Rusticos,Venda de Movéis,200,Por Demanda
+14,4564,15/06/2019,4000,1317,2,Movéis Rur,Construção e Casa,200,Por Demanda
+17,978,04/03/2019,1000,69,5,Ferragens Morais,Construção e Casa,100,Mensalista
+17,2423,19/10/2018,7000,1121,5,Ferragens Morais,Construção e Casa,100,Mensalista
+15,2590,19/02/2019,5000,1063,1,Qualidade é Tudo,Varejo,100,Mensalista
+22,2443,03/12/2017,4000,676,6,Process Automatik,tecnologia,100,Mensalista
+16,1441,14/09/2020,6000,990,6,Data Description,Tecnologia,100,Mensalista
+16,4030,19/06/2020,6000,482,6,Data Description,Tecnologia,100,Mensalista
+25,1724,07/03/2020,6000,359,8,Clinica Viva Bem,Saúde,200,Por Demanda
+19,4190,19/12/2018,2000,275,4,PCs e CIA,Tecnologia,200,Por Demanda
+19,4678,20/06/2017,5000,953,4,PCs e CIA,Tecnologia,200,Por Demanda
+24,4923,14/02/2019,7000,1362,2,Teck e Rede,Tecnologia,100,Mensalista
+25,869,20/01/2020,5000,639,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,1275,29/11/2020,4000,1270,6,Process Automatik,tecnologia,100,Mensalista
+12,4531,26/09/2019,2000,613,5,Pet Tudo,Animais,200,Por Demanda
+26,1797,19/09/2019,5000,1360,8,Rusticos,Venda de Movéis,200,Por Demanda
+22,2393,26/10/2018,3000,1368,6,Process Automatik,tecnologia,100,Mensalista
+20,4302,23/12/2021,1000,1335,4,Brink Hoje,Entretenimento,200,Por Demanda
+11,1071,03/04/2020,1000,1291,3,Justamente,Saúde e Beleza,100,Mensalista
+25,3015,02/08/2021,5000,675,8,Clinica Viva Bem,Saúde,200,Por Demanda
+25,2296,20/04/2017,4000,347,8,Clinica Viva Bem,Saúde,200,Por Demanda
+11,4350,23/06/2021,3000,295,3,Justamente,Saúde e Beleza,100,Mensalista
+22,2503,25/09/2019,3000,429,6,Process Automatik,tecnologia,100,Mensalista
+15,3492,04/01/2019,1000,629,1,Qualidade é Tudo,Varejo,100,Mensalista
+25,3214,07/03/2020,2000,293,8,Clinica Viva Bem,Saúde,200,Por Demanda
+14,não identificado,09/09/2021,2000,723,2,Movéis Rur,Construção e Casa,200,Por Demanda
+24,2223,16/08/2019,3000,637,2,Teck e Rede,Tecnologia,100,Mensalista
+17,4449,04/06/2021,2000,396,5,Ferragens Morais,Construção e Casa,100,Mensalista
+12,3398,18/09/2019,2000,227,5,Pet Tudo,Animais,200,Por Demanda
+14,3654,25/12/2021,1000,403,2,Movéis Rur,Construção e Casa,200,Por Demanda
+23,2985,08/08/2017,4000,222,7,Sua Vida,Saude,100,Mensalista
+11,4541,15/04/2021,3000,522,3,Justamente,Saúde e Beleza,100,Mensalista
+22,3732,22/07/2018,2000,550,6,Process Automatik,tecnologia,100,Mensalista
+11,4613,03/11/2019,1000,554,3,Justamente,Saúde e Beleza,100,Mensalista
+24,4828,30/07/2020,7000,578,2,Teck e Rede,Tecnologia,100,Mensalista
+21,3795,23/07/2021,3000,672,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,3100,04/03/2021,5000,677,8,Clinica Viva Bem,Saúde,200,Por Demanda
+25,2181,30/07/2019,5000,636,8,Clinica Viva Bem,Saúde,200,Por Demanda
+15,1591,28/08/2020,4000,1352,1,Qualidade é Tudo,Varejo,100,Mensalista
+16,2363,24/08/2018,4000,1392,6,Data Description,Tecnologia,100,Mensalista
+11,606,02/02/2017,7000,530,3,Justamente,Saúde e Beleza,100,Mensalista
+14,3037,18/09/2019,2000,135,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,2213,12/04/2021,7000,991,2,Movéis Rur,Construção e Casa,200,Por Demanda
+10,4645,12/08/2020,7000,919,1,Lojas Viva,Varejo,200,Por Demanda
+16,426,10/08/2021,7000,458,6,Data Description,Tecnologia,100,Mensalista
+24,3915,04/04/2017,2000,745,2,Teck e Rede,Tecnologia,100,Mensalista
+17,4913,25/02/2019,4000,93,5,Ferragens Morais,Construção e Casa,100,Mensalista
+22,2839,18/08/2021,7000,376,6,Process Automatik,tecnologia,100,Mensalista
+23,3356,13/11/2021,1000,589,7,Sua Vida,Saude,100,Mensalista
+16,3455,17/07/2017,6000,580,6,Data Description,Tecnologia,100,Mensalista
+10,1371,09/03/2020,2000,14,1,Lojas Viva,Varejo,200,Por Demanda
+19,2065,10/04/2021,2000,214,4,PCs e CIA,Tecnologia,200,Por Demanda
+11,499,20/10/2019,1000,268,3,Justamente,Saúde e Beleza,100,Mensalista
+26,420,04/05/2021,4000,469,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,4899,14/05/2020,6000,419,3,Justamente,Saúde e Beleza,100,Mensalista
+25,1847,15/01/2020,5000,1177,8,Clinica Viva Bem,Saúde,200,Por Demanda
+22,2463,20/06/2018,6000,879,6,Process Automatik,tecnologia,100,Mensalista
+12,2522,22/10/2021,2000,15,5,Pet Tudo,Animais,200,Por Demanda
+11,2014,07/08/2020,7000,55,3,Justamente,Saúde e Beleza,100,Mensalista
+15,1983,05/11/2018,5000,92,1,Qualidade é Tudo,Varejo,100,Mensalista
+25,186,13/06/2021,1000,1181,8,Clinica Viva Bem,Saúde,200,Por Demanda
+24,574,15/07/2018,3000,1222,2,Teck e Rede,Tecnologia,100,Mensalista
+19,342,12/03/2017,2000,379,4,PCs e CIA,Tecnologia,200,Por Demanda
+17,4245,10/04/2019,2000,1376,5,Ferragens Morais,Construção e Casa,100,Mensalista
+23,1291,01/05/2019,4000,1306,7,Sua Vida,Saude,100,Mensalista
+11,4523,16/05/2019,1000,846,3,Justamente,Saúde e Beleza,100,Mensalista
+17,825,21/04/2021,7000,656,5,Ferragens Morais,Construção e Casa,100,Mensalista
+17,1043,08/11/2017,5000,1422,5,Ferragens Morais,Construção e Casa,100,Mensalista
+15,1974,25/03/2017,5000,1122,1,Qualidade é Tudo,Varejo,100,Mensalista
+15,330,21/11/2017,4000,805,1,Qualidade é Tudo,Varejo,100,Mensalista
+24,2912,24/06/2021,5000,423,2,Teck e Rede,Tecnologia,100,Mensalista
+24,1065,22/03/2017,7000,299,2,Teck e Rede,Tecnologia,100,Mensalista
+16,1726,23/10/2018,4000,77,6,Data Description,Tecnologia,100,Mensalista
+10,2417,13/10/2019,3000,1366,1,Lojas Viva,Varejo,200,Por Demanda
+11,4896,23/10/2020,5000,829,3,Justamente,Saúde e Beleza,100,Mensalista
+22,1428,18/06/2020,6000,1161,6,Process Automatik,tecnologia,100,Mensalista
+24,453,12/10/2018,4000,1156,2,Teck e Rede,Tecnologia,100,Mensalista
+16,1619,21/03/2021,4000,199,6,Data Description,Tecnologia,100,Mensalista
+25,3005,27/08/2019,2000,745,8,Clinica Viva Bem,Saúde,200,Por Demanda
+19,4066,12/07/2019,2000,95,4,PCs e CIA,Tecnologia,200,Por Demanda
+25,1995,26/04/2021,7000,687,8,Clinica Viva Bem,Saúde,200,Por Demanda
+25,854,19/06/2020,7000,393,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,4566,07/03/2020,5000,1091,5,Ferragens Morais,Construção e Casa,100,Mensalista
+14,2055,01/08/2021,1000,476,2,Movéis Rur,Construção e Casa,200,Por Demanda
+14,3520,20/05/2018,7000,1004,2,Movéis Rur,Construção e Casa,200,Por Demanda
+11,1860,07/04/2019,4000,576,3,Justamente,Saúde e Beleza,100,Mensalista
+19,4417,19/06/2020,1000,63,4,PCs e CIA,Tecnologia,200,Por Demanda
+23,2066,28/01/2019,4000,452,7,Sua Vida,Saude,100,Mensalista
+26,4740,02/01/2018,3000,445,8,Rusticos,Venda de Movéis,200,Por Demanda
+15,3420,26/05/2017,5000,556,1,Qualidade é Tudo,Varejo,100,Mensalista
+11,2098,27/04/2019,4000,90,3,Justamente,Saúde e Beleza,100,Mensalista
+11,659,23/08/2021,7000,357,3,Justamente,Saúde e Beleza,100,Mensalista
+17,627,29/05/2017,6000,143,5,Ferragens Morais,Construção e Casa,100,Mensalista
+20,3457,02/07/2021,2000,583,4,Brink Hoje,Entretenimento,200,Por Demanda
+25,1423,13/11/2021,3000,837,8,Clinica Viva Bem,Saúde,200,Por Demanda
+25,2833,12/01/2018,7000,745,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,4370,18/07/2019,5000,45,5,Ferragens Morais,Construção e Casa,100,Mensalista
+25,2324,03/12/2019,3000,413,8,Clinica Viva Bem,Saúde,200,Por Demanda
+21,2240,03/11/2019,5000,1225,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+15,4386,27/10/2019,6000,1131,1,Qualidade é Tudo,Varejo,100,Mensalista
+11,1270,07/02/2021,6000,160,3,Justamente,Saúde e Beleza,100,Mensalista
+24,3734,11/07/2021,6000,604,2,Teck e Rede,Tecnologia,100,Mensalista
+22,2395,17/02/2021,5000,87,6,Process Automatik,tecnologia,100,Mensalista
+21,163,10/06/2017,1000,579,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+21,1945,06/08/2021,4000,1036,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+22,2788,15/12/2021,4000,353,6,Process Automatik,tecnologia,100,Mensalista
+26,1720,17/07/2018,4000,314,8,Rusticos,Venda de Movéis,200,Por Demanda
+21,2009,20/04/2017,3000,802,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+17,1487,01/02/2019,1000,384,5,Ferragens Morais,Construção e Casa,100,Mensalista
+12,4589,01/08/2018,6000,1147,5,Pet Tudo,Animais,200,Por Demanda
+22,3361,16/10/2019,2000,1261,6,Process Automatik,tecnologia,100,Mensalista
+14,2756,16/05/2017,7000,249,2,Movéis Rur,Construção e Casa,200,Por Demanda
+19,291,20/04/2017,5000,1012,4,PCs e CIA,Tecnologia,200,Por Demanda
+14,2008,28/04/2017,6000,19,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,1134,23/06/2017,7000,1382,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+12,3370,24/07/2017,1000,68,5,Pet Tudo,Animais,200,Por Demanda
+23,3697,01/01/2020,6000,535,7,Sua Vida,Saude,100,Mensalista
+25,3613,22/05/2019,6000,1150,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,2595,06/06/2017,1000,483,1,Lojas Viva,Varejo,200,Por Demanda
+21,1518,10/07/2017,4000,1024,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+26,2067,13/12/2017,6000,1430,8,Rusticos,Venda de Movéis,200,Por Demanda
+22,2459,24/07/2019,7000,1008,6,Process Automatik,tecnologia,100,Mensalista
+26,4039,24/09/2019,7000,1186,8,Rusticos,Venda de Movéis,200,Por Demanda
+12,2174,27/02/2018,5000,1038,5,Pet Tudo,Animais,200,Por Demanda
+22,2174,02/08/2019,4000,706,6,Process Automatik,tecnologia,100,Mensalista
+14,4622,10/06/2019,1000,465,2,Movéis Rur,Construção e Casa,200,Por Demanda
+11,691,15/07/2020,2000,687,3,Justamente,Saúde e Beleza,100,Mensalista
+22,4444,13/05/2020,4000,1150,6,Process Automatik,tecnologia,100,Mensalista
+17,"2693,56.9",10/11/2019,7000,1330,5,Ferragens Morais,Construção e Casa,100,Mensalista
+22,4805,03/08/2019,2000,374,6,Process Automatik,tecnologia,100,Mensalista
+12,4440,01/08/2017,2000,888,5,Pet Tudo,Animais,200,Por Demanda
+11,476,17/08/2020,1000,671,3,Justamente,Saúde e Beleza,100,Mensalista
+15,4368,10/01/2020,3000,197,1,Qualidade é Tudo,Varejo,100,Mensalista
+16,2061,02/04/2018,4000,707,6,Data Description,Tecnologia,100,Mensalista
+26,1332,23/12/2021,7000,1026,8,Rusticos,Venda de Movéis,200,Por Demanda
+25,4084,16/08/2017,1000,617,8,Clinica Viva Bem,Saúde,200,Por Demanda
+14,4259,22/01/2018,7000,1222,2,Movéis Rur,Construção e Casa,200,Por Demanda
+10,1461,13/03/2018,2000,843,1,Lojas Viva,Varejo,200,Por Demanda
+25,1288,07/02/2019,3000,960,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,4835,28/12/2017,2000,214,1,Lojas Viva,Varejo,200,Por Demanda
+22,3793,24/08/2018,4000,98,6,Process Automatik,tecnologia,100,Mensalista
+16,1025,09/07/2019,6000,294,6,Data Description,Tecnologia,100,Mensalista
+16,2105,17/12/2020,6000,968,6,Data Description,Tecnologia,100,Mensalista
+22,1997,16/01/2018,1000,242,6,Process Automatik,tecnologia,100,Mensalista
+10,2736,13/06/2017,3000,1296,1,Lojas Viva,Varejo,200,Por Demanda
+15,2946,15/07/2020,5000,522,1,Qualidade é Tudo,Varejo,100,Mensalista
+11,444,09/04/2018,5000,442,3,Justamente,Saúde e Beleza,100,Mensalista
+16,2605,09/03/2018,6000,1002,6,Data Description,Tecnologia,100,Mensalista
+22,4152,26/11/2021,5000,532,6,Process Automatik,tecnologia,100,Mensalista
+23,348,31/08/2019,6000,269,7,Sua Vida,Saude,100,Mensalista
+14,290,27/03/2019,3000,634,2,Movéis Rur,Construção e Casa,200,Por Demanda
+10,4303,08/01/2019,6000,538,1,Lojas Viva,Varejo,200,Por Demanda
+26,2617,06/04/2021,3000,659,8,Rusticos,Venda de Movéis,200,Por Demanda
+11,2143,02/02/2021,2000,83,3,Justamente,Saúde e Beleza,100,Mensalista
+11,4980,30/10/2021,5000,1196,3,Justamente,Saúde e Beleza,100,Mensalista
+15,474,10/08/2020,7000,1116,1,Qualidade é Tudo,Varejo,100,Mensalista
+24,4212,05/03/2018,3000,53,2,Teck e Rede,Tecnologia,100,Mensalista
+23,1045,11/02/2021,2000,462,7,Sua Vida,Saude,100,Mensalista
+19,612,17/12/2020,1000,893,4,PCs e CIA,Tecnologia,200,Por Demanda
+15,2611,08/03/2020,1000,159,1,Qualidade é Tudo,Varejo,100,Mensalista
+26,3862,20/03/2019,1000,667,8,Rusticos,Venda de Movéis,200,Por Demanda
+23,3232,10/08/2020,1000,322,7,Sua Vida,Saude,100,Mensalista
+20,2685,21/01/2017,2000,1358,4,Brink Hoje,Entretenimento,200,Por Demanda
+24,1959,13/07/2019,1000,294,2,Teck e Rede,Tecnologia,100,Mensalista
+16,3622,21/10/2017,1000,726,6,Data Description,Tecnologia,100,Mensalista
+19,4504,05/08/2020,2000,1034,4,PCs e CIA,Tecnologia,200,Por Demanda
+25,2233,25/12/2020,2000,917,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,460,02/02/2019,5000,934,1,Lojas Viva,Varejo,200,Por Demanda
+20,2276,11/04/2019,7000,101,4,Brink Hoje,Entretenimento,200,Por Demanda
+23,3745,24/11/2021,5000,153,7,Sua Vida,Saude,100,Mensalista
+24,3549,22/04/2017,2000,133,2,Teck e Rede,Tecnologia,100,Mensalista
+21,1750,22/06/2018,7000,1210,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+25,3788,03/09/2017,7000,1171,8,Clinica Viva Bem,Saúde,200,Por Demanda
+11,4794,12/06/2019,6000,480,3,Justamente,Saúde e Beleza,100,Mensalista
+15,4723,02/03/2020,6000,1069,1,Qualidade é Tudo,Varejo,100,Mensalista
+14,2283,24/09/2018,6000,1097,2,Movéis Rur,Construção e Casa,200,Por Demanda
+21,2741,18/05/2017,5000,305,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+10,3444,20/07/2021,5000,322,1,Lojas Viva,Varejo,200,Por Demanda
+26,868,25/12/2021,3000,622,8,Rusticos,Venda de Movéis,200,Por Demanda
+20,1810,14/09/2020,5000,140,4,Brink Hoje,Entretenimento,200,Por Demanda
+20,1163,27/02/2021,1000,1056,4,Brink Hoje,Entretenimento,200,Por Demanda
+10,4044,20/06/2020,3000,1058,1,Lojas Viva,Varejo,200,Por Demanda
+25,4466,30/11/2020,2000,484,8,Clinica Viva Bem,Saúde,200,Por Demanda
+17,423,01/01/2021,3000,551,5,Ferragens Morais,Construção e Casa,100,Mensalista
+11,3740,08/08/2019,1000,784,3,Justamente,Saúde e Beleza,100,Mensalista
+10,4881,16/02/2019,1000,1046,1,Lojas Viva,Varejo,200,Por Demanda
+11,174,06/05/2018,2000,759,3,Justamente,Saúde e Beleza,100,Mensalista
+12,2913,18/10/2021,2000,312,5,Pet Tudo,Animais,200,Por Demanda
+21,3094,16/02/2020,2000,1036,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+10,2024,19/05/2019,3000,283,1,Lojas Viva,Varejo,200,Por Demanda
+17,3874,27/02/2020,2000,287,5,Ferragens Morais,Construção e Casa,100,Mensalista
+17,3825,26/06/2021,2000,1187,5,Ferragens Morais,Construção e Casa,100,Mensalista
+16,1022,10/12/2021,3000,672,6,Data Description,Tecnologia,100,Mensalista
+10,3746,24/04/2020,7000,857,1,Lojas Viva,Varejo,200,Por Demanda
+26,708,16/02/2017,7000,217,8,Rusticos,Venda de Movéis,200,Por Demanda
+26,704,10/09/2017,4000,1071,8,Rusticos,Venda de Movéis,200,Por Demanda
+24,487,01/01/2017,5000,1361,2,Teck e Rede,Tecnologia,100,Mensalista
+24,2438,26/09/2019,3000,424,2,Teck e Rede,Tecnologia,100,Mensalista
+12,4390,01/02/2017,6000,835,5,Pet Tudo,Animais,200,Por Demanda
+15,3384,03/01/2018,5000,349,1,Qualidade é Tudo,Varejo,100,Mensalista
+19,753,05/04/2020,3000,574,4,PCs e CIA,Tecnologia,200,Por Demanda
+12,3671,22/01/2020,1000,376,5,Pet Tudo,Animais,200,Por Demanda
+17,3428,12/04/2020,5000,164,5,Ferragens Morais,Construção e Casa,100,Mensalista
+10,4821,29/04/2020,3000,1314,1,Lojas Viva,Varejo,200,Por Demanda
+21,602,20/09/2021,4000,1297,4,Noivas e Festas,Saúde e Beleza,100,Mensalista
+23,3114,24/12/2017,3000,510,7,Sua Vida,Saude,100,Mensalista
+14,2118,15/07/2017,7000,759,2,Movéis Rur,Construção e Casa,200,Por Demanda
+24,2352,06/01/2020,2000,540,2,Teck e Rede,Tecnologia,100,Mensalista
+22,3835,16/08/2019,5000,100,6,Process Automatik,tecnologia,100,Mensalista
+15,1156,10/10/2020,3000,116,1,Qualidade é Tudo,Varejo,100,Mensalista
+24,261,04/02/2020,1000,1084,2,Teck e Rede,Tecnologia,100,Mensalista
+10,406,01/01/2020,5000,380,1,Lojas Viva,Varejo,200,Por Demanda
+16,2667,21/05/2020,2000,599,6,Data Description,Tecnologia,100,Mensalista
+19,2069,16/10/2019,6000,352,4,PCs e CIA,Tecnologia,200,Por Demanda
+22,1816,20/10/2017,3000,1418,6,Process Automatik,tecnologia,100,Mensalista
+10,173,18/11/2018,2000,348,1,Lojas Viva,Varejo,200,Por Demanda
+23,4686,10/06/2020,1000,248,7,Sua Vida,Saude,100,Mensalista
+26,700,01/02/2018,2000,1396,8,Rusticos,Venda de Movéis,200,Por Demanda
+15,623,17/01/2021,3000,1170,1,Qualidade é Tudo,Varejo,100,Mensalista
+10,3619,04/05/2017,5000,647,1,Lojas Viva,Varejo,200,Por Demanda
+26,1765,28/02/2020,2000,1161,8,Rusticos,Venda de Movéis,200,Por Demanda
+12,3366,14/06/2020,5000,808,5,Pet Tudo,Animais,200,Por Demanda
+11,-,24/09/2017,6000,690,3,Justamente,Saúde e Beleza,100,Mensalista
+25,855,07/05/2020,5000,828,8,Clinica Viva Bem,Saúde,200,Por Demanda
+10,4762,30/05/2021,3000,619,1,Lojas Viva,Varejo,200,Por Demanda
+14,3958,07/02/2019,2000,1245,2,Movéis Rur,Construção e Casa,200,Por Demanda
